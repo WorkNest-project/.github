@@ -20,14 +20,18 @@
 8. CI/CD с пайплайнами.
 
 ## Стек
-Категория | Библиотека / Инструмент | Назначение
-UI | HeroUI (shadcn/ui) | Компоненты, дизайн-система
-Анимации | Framer Motion | Плавные анимации и переходы
-Стилейка | Tailwind CSS | Утилитарные стили
-PWA | next-pwa | Кеширование, offline режим
-Состояние | Zustand | Lightweight state manager
-Формы | React Hook Form + Zod | Формы + валидация
-Fetch | React Query | Fetching, кеш, мутации
-Drag-n-Drop | @dnd-kit | Канбан и drag интерфейсы
-Иконки | Lucide-react | Иконки с поддержкой Tailwind
-SVG/Charts | Recharts / Nivo | Визуализация данных (будущее)
+По ходу разработки это может добавляться и убавляться.
+### Frontend
+![image](https://github.com/user-attachments/assets/94c73899-7e4a-46b3-97d2-ad8a674d8297)
+## Backend
+![image](https://github.com/user-attachments/assets/a9bdb7a4-d62e-4db5-9737-a3718689a305)
+## Auth
+![image](https://github.com/user-attachments/assets/b108e785-80f0-4e24-9ea3-3599293281c1)
+## Subscribes & Billing
+![image](https://github.com/user-attachments/assets/bcf77a0f-ad6f-4758-a5b4-88fee575e93a)
+## PWA
+![image](https://github.com/user-attachments/assets/7ccfe800-ceb1-429c-a33e-0cc7a644b2dc)
+## DevOps
+![image](https://github.com/user-attachments/assets/c6a6aa99-3716-42de-b5a8-77fcbdfe52e2)
+## Future features
+![image](https://github.com/user-attachments/assets/b9afd0f9-af3a-465a-9369-ea5beb78638b)
